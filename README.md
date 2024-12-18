@@ -8,7 +8,7 @@
 - JavaScript
 
 ## デモリンク
-[GitHub Pages](https://<0527-H>.github.io/<sample1.html>/)
+(https://<0527-H>.github.io/<sample1.html>/)
 
 ## 今後の課題
 - データを動的に更新する。
